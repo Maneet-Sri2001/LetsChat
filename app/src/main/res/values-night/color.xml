@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#171717</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#282828</color>
+    <color name="colorPrimaryLight">#3D3D3D</color>
+    <color name="colorToolbar">#000000</color>
+    <color name="toolbarText">#ffffff</color>
+    <color name="bgForm">#363636</color>
+    <color name="bgBtn">#666666</color>
+    <color name="colorIcon">#3F82EF</color>
+    <color name="colorText">#DEDEDE</color>
+    <color name="SecondText">#999999</color>
+</resources>
