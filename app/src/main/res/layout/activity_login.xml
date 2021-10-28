@@ -22,7 +22,8 @@
         android:background="@android:color/white"
         android:padding="10dp"
         app:cardCornerRadius="5dp"
-        app:cardElevation="10dp">
+        app:cardElevation="10dp"
+        tools:ignore="MissingClass">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -99,5 +100,9 @@
                 android:textStyle="bold" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
 </RelativeLayout>
